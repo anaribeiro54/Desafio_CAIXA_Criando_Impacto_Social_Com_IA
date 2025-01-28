@@ -81,21 +81,27 @@ Leonardo AI：
 
 ## 📚 Artigo descritivo
 
+
 ## Plataforma Integrada para Habitação Verde e Sustentável
 
+
 ## 🌿 Introdução
+
 A construção civil é um dos setores que mais contribuem para as emissões de carbono no mundo, representando cerca de 39% das emissões globais de CO₂. No Brasil, esse cenário se agrava com a falta de integração entre construtoras, fornecedores, investidores e clientes, além de dificuldades no monitoramento ambiental e no acesso a financiamentos verdes. Pensando nesses desafios, surgiu a concepção de uma Plataforma Integrada para Habitação Verde e Sustentável, uma solução inovadora baseada em inteligência artificial (IA) para transformar a maneira como o mercado imobiliário opera.
 
 ## 🌍 Objetivo da Plataforma
+
 A plataforma tem como propósito entregar valor aos diversos stakeholders envolvidos no processo de construção e financiamento de habitação verde, promovendo sustentabilidade, eficiência e transparência. Ela busca impulsionar um ciclo virtuoso onde construtoras, clientes e investidores trabalham de forma colaborativa, com decisões informadas por dados e tecnologias avançadas.
 ________________________________________
 ## 🔧 Estrutura Modular da Plataforma
+
 ________________________________________
 ## Módulo 1: Inteligência de Mercado e Planejamento Estratégico
 
 Objetivo: Fornecer insights estratégicos para líderes e investidores com base em dados de mercado, tendências habitacionais e políticas ambientais.
 
 Funcionalidades:
+
 •	Painéis dinâmicos com gráficos interativos.
 •	Análise preditiva para identificar tendências habitacionais.
 •	Simulação de cenários para impactos financeiros e ambientais.
@@ -107,6 +113,7 @@ ________________________________________
 Objetivo: Auxiliar clientes a entenderem os benefícios financeiros e ambientais de investir em habitações verdes.
 
 Funcionalidades:
+
 •	Simulação financeira com taxas diferenciadas para projetos sustentáveis.
 •	Estimativa de economia com práticas verdes.
 •	Recomendação personalizada de imóveis.
@@ -118,6 +125,7 @@ ________________________________________
 Objetivo: Conectar construtoras, fornecedores de materiais sustentáveis, investidores e clientes em um único ambiente colaborativo.
 
 Funcionalidades:
+
 •	Cadastro de stakeholders e marketplace de projetos.
 •	Relatórios de impacto ambiental.
 •	Algoritmos de IA para matchmaking entre stakeholders.
@@ -129,6 +137,7 @@ ________________________________________
 Objetivo: Acompanhar o desempenho ambiental e social dos projetos financiados.
 
 Funcionalidades:
+
 •	Monitoramento de indicadores de sustentabilidade.
 •	Painéis em tempo real com dados de impacto.
 •	Relatórios ESG automáticos.
@@ -140,6 +149,7 @@ ________________________________________
 Objetivo: Capacitar clientes, construtoras e colaboradores para aumentar a adoção de práticas sustentáveis.
 
 Funcionalidades:
+
 •	Trilhas de aprendizado personalizadas.
 •	Gamificação para engajamento dos stakeholders.
 •	Certificações para construtoras.
@@ -149,12 +159,14 @@ ________________________________________
 ## 🚀 Potencial Transformador da Proposta
 
 A Plataforma Integrada para Habitação Verde e Sustentável apresenta um potencial transformador significativo ao gerar impactos positivos nas seguintes dimensões:
+
 •	Social: Mais acesso a habitações sustentáveis e melhoria da qualidade de vida.
 •	Ambiental: Redução de emissões de CO₂ e maior eficiência no uso de recursos naturais.
 •	Econômico: Custos menores para construtores e clientes, além de novos modelos de negócios sustentáveis.
 •	Cultural: Promoção de uma cultura de sustentabilidade e colaboração entre stakeholders.
 
 Além disso, a proposta está alinhada aos Objetivos de Desenvolvimento Sustentável (ODS), incluindo:
+
 •	ODS 7: Energia Limpa e Acessível
 •	ODS 9: Inovação e Infraestrutura
 •	ODS 11: Comunidades Sustentáveis
