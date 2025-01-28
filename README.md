@@ -4,7 +4,7 @@
 
 <p align="center">
 <img 
-    src="[https://github.com/anaribeiro54/dio_desafio_banco_de_dados/blob/main/A%20hand-drawn%20sketch%20in%20classic%20black%20and%20white%2C%20depicting%20a%20woman%20surrounded%20by%20ascending%20graphs%20and%20a%20path.%20The%20style%20is%20timeless%20and%20elegant%2C%20featuring%20rough%20lines%2C%20textured%20pencil%20strokes%2C%20and%20deep%20shadows%20again.jpg](https://github.com/anaribeiro54/Desafio_CAIXA_Criando_Impacto_Social_Com_IA/blob/main/A%20hand-drawn%20sketch%20in%20classic%20black%20and%20white%2C%20depicting%20a%20woman%20surrounded%20by%20ascending%20graphs%20and%20a%20path.%20The%20style%20is%20timeless%20and%20elegant%2C%20featuring%20rough%20lines%2C%20textured%20pencil%20strokes%2C%20and%20deep%20shadows%20again.jpg)"
+    src="https://github.com/anaribeiro54/dio_desafio_banco_de_dados/blob/main/A%20hand-drawn%20sketch%20in%20classic%20black%20and%20white%2C%20depicting%20a%20woman%20surrounded%20by%20ascending%20graphs%20and%20a%20path.%20The%20style%20is%20timeless%20and%20elegant%2C%20featuring%20rough%20lines%2C%20textured%20pencil%20strokes%2C%20and%20deep%20shadows%20again.jpg"
 />
 </p>
 
@@ -56,13 +56,9 @@ ChatGPT：
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  Insights  | Você é um analista de dados da Caixa Econômica Federal e recebeu a seguinte missão: mostrar todo o seu talento e inovação! Desafio CAIXA – Criando Impacto Social com IA. Descreva o seu projeto e descreva como você utilizou IA no desenvolvimento da solução, incluindo os recursos, ferramentas e metodologias aplicadas. Explique de forma clara o processo de criação e destaque o potencial transformador da sua proposta, evidenciando como ela pode gerar mudanças significativas, mesmo que o impacto real ainda não tenha sido alcançado. Por favor, me ajude gerando insights para este desafio.  |
-
 |  Refinando Insights  | poderia gerar algum insight levando em consideração a Conferência das Nações Unidas sobre as Mudanças Climáticas de 2025?  |
-
 | Inserindo novos insights | Como você relacionaria todas essas ideias com o tema centralidade no cliente?  |
-
 | Fechando a ideia final | Pensei nas ideias geradas e gostei particularmente de 3 delas: "Liderança Sustentável: Decisões Baseadas em Dados", "Habitação Verde e Sustentável", "Futuro Sustentável: Fundo de Investimentos Verdes". A partir delas, estava pensando na possibilidade da ideia final ser uma plataforma integrada baseada em IA que seja capaz de entregar valor aos diversos stakeholders envolvidos no processo de construção e financiamento de habitação verde e sustentável.  |
-
 | Estruturacao | Por favor, estruture os módulos da plataforma e pense em detalhes técnicos e de impacto para a apresentação0  |
 
 
@@ -71,7 +67,6 @@ Leonardo AI：
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
 | imagem de capa | Crie uma imagem surrealista que contenha um caminho com gráficos ascendentes, em cores suaves e tenha uma figura feminina |
-
 | imagens do folder | Cri imagens que estejam relacionadas ao tema moradias verdes, moradias sustentáveis |
 
 
@@ -79,23 +74,24 @@ Leonardo AI：
 
 - [Artigo em Word](a incluir)
 - [Artigo em PowerPoint](a incluir)
-- [Capa gerada no Leonardo AI]([https://github.com/anaribeiro54/prompts-for-podcast-generate-by-ia/blob/main/assets/A%20hand-drawn%20sketch%20in%20classic%20black%20and%20white%2C%20depicting%20a%20woman%20surrounded%20by%20ascending%20graphs%20and%20a%20path.%20The%20style%20is%20timeless%20and%20elegant%2C%20featuring%20rough%20lines%2C%20textured%20pencil%20strokes%2C%20and%20deep%20shadows%20again.jpg](https://github.com/anaribeiro54/Desafio_CAIXA_Criando_Impacto_Social_Com_IA/blob/main/A%20hand-drawn%20sketch%20in%20classic%20black%20and%20white%2C%20depicting%20a%20woman%20surrounded%20by%20ascending%20graphs%20and%20a%20path.%20The%20style%20is%20timeless%20and%20elegant%2C%20featuring%20rough%20lines%2C%20textured%20pencil%20strokes%2C%20and%20deep%20shadows%20again.jpg))
+- [Capa gerada no Leonardo AI]([[https://github.com/anaribeiro54/prompts-for-podcast-generate-by-ia/blob/main/assets/A%20hand-drawn%20sketch%20in%20classic%20black%20and%20white%2C%20depicting%20a%20woman%20surrounded%20by%20ascending%20graphs%20and%20a%20path.%20The%20style%20is%20timeless%20and%20elegant%2C%20featuring%20rough%20lines%2C%20textured%20pencil%20strokes%2C%20and%20deep%20shadows%20again.jpg](https://github.com/anaribeiro54/Desafio_CAIXA_Criando_Impacto_Social_Com_IA/blob/main/A%20hand-drawn%20sketch%20in%20classic%20black%20and%20white%2C%20depicting%20a%20woman%20surrounded%20by%20ascending%20graphs%20and%20a%20path.%20The%20style%20is%20timeless%20and%20elegant%2C%20featuring%20rough%20lines%2C%20textured%20pencil%20strokes%2C%20and%20deep%20shadows%20again.jpg)](https://github.com/anaribeiro54/Desafio_CAIXA_Criando_Impacto_Social_Com_IA/blob/main/A%20hand-drawn%20sketch%20in%20classic%20black%20and%20white%2C%20depicting%20a%20woman%20surrounded%20by%20ascending%20graphs%20and%20a%20path.%20The%20style%20is%20timeless%20and%20elegant%2C%20featuring%20rough%20lines%2C%20textured%20pencil%20strokes%2C%20and%20deep%20shadows%20again.jpg))
 - [Folder 1](https://github.com/anaribeiro54/Desafio_CAIXA_Criando_Impacto_Social_Com_IA/blob/main/Folder_1.png)
 - [Folder 2](https://github.com/anaribeiro54/Desafio_CAIXA_Criando_Impacto_Social_Com_IA/blob/main/habita-c-ao-ver_1738099583.png)
 
 
 ## 📚 Artigo descritivo
 
-Plataforma Integrada para Habitação Verde e Sustentável
+## Plataforma Integrada para Habitação Verde e Sustentável
 
-🌿 Introdução
+## 🌿 Introdução
 A construção civil é um dos setores que mais contribuem para as emissões de carbono no mundo, representando cerca de 39% das emissões globais de CO₂. No Brasil, esse cenário se agrava com a falta de integração entre construtoras, fornecedores, investidores e clientes, além de dificuldades no monitoramento ambiental e no acesso a financiamentos verdes. Pensando nesses desafios, surgiu a concepção de uma Plataforma Integrada para Habitação Verde e Sustentável, uma solução inovadora baseada em inteligência artificial (IA) para transformar a maneira como o mercado imobiliário opera.
-🌍 Objetivo da Plataforma
+
+## 🌍 Objetivo da Plataforma
 A plataforma tem como propósito entregar valor aos diversos stakeholders envolvidos no processo de construção e financiamento de habitação verde, promovendo sustentabilidade, eficiência e transparência. Ela busca impulsionar um ciclo virtuoso onde construtoras, clientes e investidores trabalham de forma colaborativa, com decisões informadas por dados e tecnologias avançadas.
 ________________________________________
-🔧 Estrutura Modular da Plataforma
+## 🔧 Estrutura Modular da Plataforma
 ________________________________________
-Módulo 1: Inteligência de Mercado e Planejamento Estratégico
+## Módulo 1: Inteligência de Mercado e Planejamento Estratégico
 
 Objetivo: Fornecer insights estratégicos para líderes e investidores com base em dados de mercado, tendências habitacionais e políticas ambientais.
 
@@ -106,7 +102,7 @@ Funcionalidades:
 
 Impacto: Decisões mais assertivas e melhor alocação de recursos em projetos sustentáveis.
 ________________________________________
-Módulo 2: Simulador Personalizado de Financiamento Verde
+## Módulo 2: Simulador Personalizado de Financiamento Verde
 
 Objetivo: Auxiliar clientes a entenderem os benefícios financeiros e ambientais de investir em habitações verdes.
 
@@ -117,7 +113,7 @@ Funcionalidades:
 
 Impacto: Redução de custos de longo prazo para as famílias brasileiras e maior adesão ao financiamento verde.
 ________________________________________
-Módulo 3: Hub de Conexão para Stakeholders
+## Módulo 3: Hub de Conexão para Stakeholders
 
 Objetivo: Conectar construtoras, fornecedores de materiais sustentáveis, investidores e clientes em um único ambiente colaborativo.
 
@@ -128,7 +124,7 @@ Funcionalidades:
 
 Impacto: Facilita parcerias e promove práticas sustentáveis com maior transparência.
 ________________________________________
-Módulo 4: Monitoramento e Relatórios de Impacto
+## Módulo 4: Monitoramento e Relatórios de Impacto
 
 Objetivo: Acompanhar o desempenho ambiental e social dos projetos financiados.
 
@@ -139,7 +135,7 @@ Funcionalidades:
 
 Impacto: Transparência nos resultados dos projetos e melhor compreensão do impacto para investidores.
 ________________________________________
-Módulo 5: Educação e Engajamento
+## Módulo 5: Educação e Engajamento
 
 Objetivo: Capacitar clientes, construtoras e colaboradores para aumentar a adoção de práticas sustentáveis.
 
@@ -150,7 +146,7 @@ Funcionalidades:
 
 Impacto: Formação de uma comunidade consciente e habilitada para práticas verdes.
 ________________________________________
-🚀 Potencial Transformador da Proposta
+## 🚀 Potencial Transformador da Proposta
 
 A Plataforma Integrada para Habitação Verde e Sustentável apresenta um potencial transformador significativo ao gerar impactos positivos nas seguintes dimensões:
 •	Social: Mais acesso a habitações sustentáveis e melhoria da qualidade de vida.
@@ -164,13 +160,13 @@ Além disso, a proposta está alinhada aos Objetivos de Desenvolvimento Sustent�
 •	ODS 11: Comunidades Sustentáveis
 •	ODS 13: Ação Climática
 ________________________________________
-📈 Implementação e Próximos Passos
+## 📈 Implementação e Próximos Passos
 Para garantir o sucesso da plataforma, sugerimos os seguintes passos:
 1.	Implementação Piloto: Parceria com construtoras e clientes para validar funcionalidades.
 2.	Expansão: Escalar a plataforma para projetos em todo o país.
 3.	Monitoramento Contínuo: Acompanhamento de indicadores de impacto e melhorias contínuas.
 ________________________________________
-🎯 Conclusão
+## 🎯 Conclusão
 A Plataforma Integrada para Habitação Verde e Sustentável se apresenta como uma solução inovadora e disruptiva, com potencial de transformar o mercado habitacional brasileiro, gerar impacto positivo para o meio ambiente e beneficiar todos os stakeholders envolvidos. Por meio de tecnologias avançadas e uma abordagem colaborativa, a CAIXA reafirma seu compromisso com um futuro mais verde e sustentável.
 ________________________________________
 Acompanhe nosso progresso e junte-se a essa revolução verde! 🌱
