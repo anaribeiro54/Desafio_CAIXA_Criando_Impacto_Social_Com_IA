@@ -72,116 +72,140 @@ Leonardo AI：
 
 ## 📚 Materiais
 
-- [Artigo em Word](a incluir)
-- [Artigo em PowerPoint](a incluir)
+- [Artigo em Word]([a incluir](https://github.com/anaribeiro54/Desafio_CAIXA_Criando_Impacto_Social_Com_IA/blob/main/Artigo_versaoFINAL.docx))
+- [Apresentação em PDF]([a incluir](https://github.com/anaribeiro54/Desafio_CAIXA_Criando_Impacto_Social_Com_IA/blob/main/Desafio%20CAIXA.pdf))
 - [Capa gerada no Leonardo AI]([[https://github.com/anaribeiro54/prompts-for-podcast-generate-by-ia/blob/main/assets/A%20hand-drawn%20sketch%20in%20classic%20black%20and%20white%2C%20depicting%20a%20woman%20surrounded%20by%20ascending%20graphs%20and%20a%20path.%20The%20style%20is%20timeless%20and%20elegant%2C%20featuring%20rough%20lines%2C%20textured%20pencil%20strokes%2C%20and%20deep%20shadows%20again.jpg](https://github.com/anaribeiro54/Desafio_CAIXA_Criando_Impacto_Social_Com_IA/blob/main/A%20hand-drawn%20sketch%20in%20classic%20black%20and%20white%2C%20depicting%20a%20woman%20surrounded%20by%20ascending%20graphs%20and%20a%20path.%20The%20style%20is%20timeless%20and%20elegant%2C%20featuring%20rough%20lines%2C%20textured%20pencil%20strokes%2C%20and%20deep%20shadows%20again.jpg)](https://github.com/anaribeiro54/Desafio_CAIXA_Criando_Impacto_Social_Com_IA/blob/main/A%20hand-drawn%20sketch%20in%20classic%20black%20and%20white%2C%20depicting%20a%20woman%20surrounded%20by%20ascending%20graphs%20and%20a%20path.%20The%20style%20is%20timeless%20and%20elegant%2C%20featuring%20rough%20lines%2C%20textured%20pencil%20strokes%2C%20and%20deep%20shadows%20again.jpg))
-- [Folder 1](https://github.com/anaribeiro54/Desafio_CAIXA_Criando_Impacto_Social_Com_IA/blob/main/Folder_1.png)
-- [Folder 2](https://github.com/anaribeiro54/Desafio_CAIXA_Criando_Impacto_Social_Com_IA/blob/main/habita-c-ao-ver_1738099583.png)
+- [Folder](https://github.com/anaribeiro54/Desafio_CAIXA_Criando_Impacto_Social_Com_IA/blob/main/Folder_final.png)
 
 
-## 📚 Artigo descritivo
+## 📚 Artigo descritivo: Projeto final
 
-
-## Plataforma Integrada para Habitação Verde e Sustentável
-
+## EcoSphere AI
+## A sua Plataforma Integrada para Habitação Verde e Sustentável
 
 ## 🌿 Introdução
 
-A construção civil é um dos setores que mais contribuem para as emissões de carbono no mundo, representando cerca de 39% das emissões globais de CO₂. No Brasil, esse cenário se agrava com a falta de integração entre construtoras, fornecedores, investidores e clientes, além de dificuldades no monitoramento ambiental e no acesso a financiamentos verdes. Pensando nesses desafios, surgiu a concepção de uma Plataforma Integrada para Habitação Verde e Sustentável, uma solução inovadora baseada em inteligência artificial (IA) para transformar a maneira como o mercado imobiliário opera.
-
-## 🌍 Objetivo da Plataforma
-
-A plataforma tem como propósito entregar valor aos diversos stakeholders envolvidos no processo de construção e financiamento de habitação verde, promovendo sustentabilidade, eficiência e transparência. Ela busca impulsionar um ciclo virtuoso onde construtoras, clientes e investidores trabalham de forma colaborativa, com decisões informadas por dados e tecnologias avançadas.
+A construção civil é um dos setores que mais contribuem para as emissões de carbono no mundo, representando cerca de 39% das emissões globais de CO₂. No Brasil, esse cenário se agrava com a falta de integração entre construtoras, fornecedores, investidores e clientes, além de dificuldades no monitoramento ambiental e no acesso a financiamentos verdes. Pensando nesses desafios, surgiu a concepção de uma Plataforma Integrada para Habitação Verde e Sustentável, a EcoSphere AI, uma solução inovadora baseada em inteligência artificial (IA) para transformar a maneira como o mercado imobiliário opera.
+🌍 Objetivo da Plataforma
+A EcoSphere AI tem como propósito entregar valor aos diversos stakeholders envolvidos no processo de construção e financiamento de habitação verde, promovendo sustentabilidade, eficiência e transparência. Ela busca impulsionar um ciclo virtuoso onde construtoras, clientes e investidores trabalham de forma colaborativa, com decisões informadas por dados e tecnologias avançadas.
 ________________________________________
-## 🔧 Estrutura Modular da Plataforma
-
+## 🔧 Estrutura Modular da EcoSphere AI
 ________________________________________
+
 ## Módulo 1: Inteligência de Mercado e Planejamento Estratégico
 
-Objetivo: Fornecer insights estratégicos para líderes e investidores com base em dados de mercado, tendências habitacionais e políticas ambientais.
+- Objetivo: Fornecer insights estratégicos para líderes e investidores com base em dados de mercado, tendências habitacionais e políticas ambientais.
 
-Funcionalidades:
+- Funcionalidades:
+  
+•	Painéis dinâmicos: Gráficos interativos que mostram demanda por habitação verde, áreas prioritárias e benchmarking com concorrência.
+•	Análise preditiva: Modelos de machine learning para prever tendências de mercado, como crescimento de bairros sustentáveis.
+•	Simulação de cenários: Ferramenta para calcular impactos financeiros e ambientais considerando diferentes políticas públicas e incentivos fiscais.
 
-•	Painéis dinâmicos com gráficos interativos.
-•	Análise preditiva para identificar tendências habitacionais.
-•	Simulação de cenários para impactos financeiros e ambientais.
+- Tecnologias Utilizadas:
+  
+•	Python para aprendizado de máquina.
+•	Power BI ou Tableau para visualizações de dados.
+•	APIs de dados (IBGE, INPE, Ministério das Cidades).
 
-Impacto: Decisões mais assertivas e melhor alocação de recursos em projetos sustentáveis.
+- Impacto:
+  
+•	Decisões mais assertivas para líderes e gestores.
+•	Melhor alocação de recursos em projetos sustentáveis.
 ________________________________________
+
 ## Módulo 2: Simulador Personalizado de Financiamento Verde
 
-Objetivo: Auxiliar clientes a entenderem os benefícios financeiros e ambientais de investir em habitações verdes.
-
-Funcionalidades:
-
-•	Simulação financeira com taxas diferenciadas para projetos sustentáveis.
-•	Estimativa de economia com práticas verdes.
-•	Recomendação personalizada de imóveis.
-
-Impacto: Redução de custos de longo prazo para as famílias brasileiras e maior adesão ao financiamento verde.
+- Objetivo: Auxiliar clientes a entenderem os benefícios financeiros e ambientais de investir em habitações verdes.
+- Funcionalidades:
+•	Simulação financeira: Calculadora que apresenta taxas de juros reduzidas para financiamentos sustentáveis e compara opções.
+•	Estimativa de economia: Projeção de economia com energia solar, reaproveitamento de água e manutenção.
+•	Feedback personalizado: Recomendamos projetos ou imóveis baseados no perfil financeiro e ecológico do cliente.
+- Tecnologias Utilizadas:
+•	Modelos de previsão financeira baseados em IA.
+•	Interface responsiva para web e dispositivos móveis.
+•	Integração com banco de dados CAIXA.
+- Impacto:
+•	Aumenta o acesso dos clientes à informação, promovendo decisões mais conscientes.
+•	Redução dos custos de longo prazo para as famílias brasileiras.
 ________________________________________
+
 ## Módulo 3: Hub de Conexão para Stakeholders
 
-Objetivo: Conectar construtoras, fornecedores de materiais sustentáveis, investidores e clientes em um único ambiente colaborativo.
-
-Funcionalidades:
-
-•	Cadastro de stakeholders e marketplace de projetos.
-•	Relatórios de impacto ambiental.
+- Objetivo: Conectar construtoras, fornecedores de materiais sustentáveis, investidores e clientes em um único ambiente colaborativo.
+- Funcionalidades:
+•	Cadastro de stakeholders: Ambiente para construtoras e fornecedores de materiais certificados se inscreverem e divulgarem seus serviços.
+•	Marketplace de projetos: Espaço para investidores identificarem e apoiarem projetos sustentáveis.
+•	Relatórios de impacto: Exibição de resultados ambientais e sociais dos projetos em andamento.
+- Tecnologias Utilizadas:
+•	Blockchain para rastreamento de materiais e transparência.
 •	Algoritmos de IA para matchmaking entre stakeholders.
-
-Impacto: Facilita parcerias e promove práticas sustentáveis com maior transparência.
+•	API aberta para integração com ERPs das construtoras.
+- Impacto:
+•	Facilita a formação de parcerias e promove a adoção de práticas sustentáveis.
+•	Aumenta a transparência e a confiança entre os participantes.
 ________________________________________
+
 ## Módulo 4: Monitoramento e Relatórios de Impacto
 
-Objetivo: Acompanhar o desempenho ambiental e social dos projetos financiados.
+- Objetivo: Acompanhar o desempenho ambiental e social dos projetos financiados e fornecer relatórios claros para todos os stakeholders.
+- Funcionalidades:
+•	Indicadores de sustentabilidade: Monitoramento de emissões de CO₂, eficiência hídrica e energética dos projetos.
+•	Painéis em tempo real: Informam progresso dos projetos e resultados alcançados.
+•	Relatórios ESG: Geração automática de relatórios para investidores, evidenciando impacto social e ambiental.
+Tecnologias Utilizadas:
+•	Sensores IoT para monitorar construções em tempo real.
+•	Inteligência artificial para correlacionar dados de impacto.
+Impacto:
+•	Transparência nos resultados dos projetos financiados.
+•	Melhor compreensão do impacto para clientes e investidores.
 
-Funcionalidades:
-
-•	Monitoramento de indicadores de sustentabilidade.
-•	Painéis em tempo real com dados de impacto.
-•	Relatórios ESG automáticos.
-
-Impacto: Transparência nos resultados dos projetos e melhor compreensão do impacto para investidores.
 ________________________________________
+
 ## Módulo 5: Educação e Engajamento
 
-Objetivo: Capacitar clientes, construtoras e colaboradores para aumentar a adoção de práticas sustentáveis.
-
-Funcionalidades:
-
-•	Trilhas de aprendizado personalizadas.
-•	Gamificação para engajamento dos stakeholders.
-•	Certificações para construtoras.
-
-Impacto: Formação de uma comunidade consciente e habilitada para práticas verdes.
+- Objetivo: Capacitar clientes, construtoras e colaboradores para aumentar a adoção de práticas sustentáveis.
+- Funcionalidades:
+•	Trilhas de aprendizado personalizadas: Cursos e materiais adaptados ao perfil do usuário.
+•	Gamificação: Recompensas para stakeholders que completam módulos de formação.
+•	Certificações: Certificados para construtoras que adotam padrões verdes.
+- Tecnologias Utilizadas:
+•	Plataformas de e-learning integradas com IA.
+•	Elementos de gamificação para aumentar engajamento.
+- Impacto:
+•	Formação de uma comunidade mais consciente e habilitada.
+•	Estímulo ao uso de soluções sustentáveis por todos os stakeholders.
 ________________________________________
+
 ## 🚀 Potencial Transformador da Proposta
 
 A Plataforma Integrada para Habitação Verde e Sustentável apresenta um potencial transformador significativo ao gerar impactos positivos nas seguintes dimensões:
-
-•	Social: Mais acesso a habitações sustentáveis e melhoria da qualidade de vida.
-•	Ambiental: Redução de emissões de CO₂ e maior eficiência no uso de recursos naturais.
-•	Econômico: Custos menores para construtores e clientes, além de novos modelos de negócios sustentáveis.
+•	Social: Mais acesso a habitações sustentáveis e melhoria da qualidade de vida. 
+•	Ambiental: Redução de emissões de CO₂ e maior eficiência no uso de recursos naturais. 
+•	Econômico: Custos menores para construtores e clientes, além de novos modelos de negócios sustentáveis. 
 •	Cultural: Promoção de uma cultura de sustentabilidade e colaboração entre stakeholders.
-
+•	Corporativos: a CAIXA reafirma seu compromisso com um futuro mais verde e sustentável.
 Além disso, a proposta está alinhada aos Objetivos de Desenvolvimento Sustentável (ODS), incluindo:
-
-•	ODS 7: Energia Limpa e Acessível
+•	ODS 7: Energia Limpa e Acessível 
 •	ODS 9: Inovação e Infraestrutura
-•	ODS 11: Comunidades Sustentáveis
+•	ODS 11: Comunidades Sustentáveis 
 •	ODS 13: Ação Climática
 ________________________________________
+
 ## 📈 Implementação e Próximos Passos
-Para garantir o sucesso da plataforma, sugerimos os seguintes passos:
+
+Para garantir o sucesso da EcoSphere AI, sugerimos os seguintes passos:
 1.	Implementação Piloto: Parceria com construtoras e clientes para validar funcionalidades.
 2.	Expansão: Escalar a plataforma para projetos em todo o país.
 3.	Monitoramento Contínuo: Acompanhamento de indicadores de impacto e melhorias contínuas.
 ________________________________________
+
 ## 🎯 Conclusão
-A Plataforma Integrada para Habitação Verde e Sustentável se apresenta como uma solução inovadora e disruptiva, com potencial de transformar o mercado habitacional brasileiro, gerar impacto positivo para o meio ambiente e beneficiar todos os stakeholders envolvidos. Por meio de tecnologias avançadas e uma abordagem colaborativa, a CAIXA reafirma seu compromisso com um futuro mais verde e sustentável.
+
+A EcoSphere AI se apresenta como uma solução inovadora e disruptiva, com potencial de transformar o mercado habitacional brasileiro, gerar impacto positivo para o meio ambiente e beneficiar todos os stakeholders envolvidos. Por meio de tecnologias avançadas e uma abordagem colaborativa, a CAIXA reafirma seu compromisso com um futuro mais verde e sustentável.
 ________________________________________
 Acompanhe nosso progresso e junte-se a essa revolução verde! 🌱
+
 
 
 
