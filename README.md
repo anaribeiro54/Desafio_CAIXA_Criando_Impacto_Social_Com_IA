@@ -217,7 +217,11 @@ A EcoSphere AI se apresenta como uma solução inovadora e disruptiva, com poten
 ________________________________________
 Acompanhe nosso progresso e junte-se a essa revolução verde! 🌱
 
-
+<p align="center">
+<img 
+    src="https://github.com/anaribeiro54/Desafio_CAIXA_Criando_Impacto_Social_Com_IA/blob/main/mvp%20tela%20inicial.png"
+/>
+</p>
 
 
 ## 👩‍💼 Expert
