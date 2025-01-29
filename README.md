@@ -59,8 +59,8 @@ ChatGPT：
 |  Refinando Insights  | poderia gerar algum insight levando em consideração a Conferência das Nações Unidas sobre as Mudanças Climáticas de 2025?  |
 | Inserindo novos insights | Como você relacionaria todas essas ideias com o tema centralidade no cliente?  |
 | Fechando a ideia final | Pensei nas ideias geradas e gostei particularmente de 3 delas: "Liderança Sustentável: Decisões Baseadas em Dados", "Habitação Verde e Sustentável", "Futuro Sustentável: Fundo de Investimentos Verdes". A partir delas, estava pensando na possibilidade da ideia final ser uma plataforma integrada baseada em IA que seja capaz de entregar valor aos diversos stakeholders envolvidos no processo de construção e financiamento de habitação verde e sustentável.  |
-| Estruturacao | Por favor, estruture os módulos da plataforma e pense em detalhes técnicos e de impacto para a apresentação0  |
-
+| Estruturacao | Por favor, estruture os módulos da plataforma e pense em detalhes técnicos e de impacto para a apresentação  |
+| Nome comercial | Podíamos dar um nome mais comercial a nossa plataforma. possui alguma sugestão? Acredito que precisamos de algo que além de transmitir a ideia do que é efetivamente a plataforma, também crie uma ideia de relevância.  |
 
 Leonardo AI：
 
@@ -72,8 +72,8 @@ Leonardo AI：
 
 ## 📚 Materiais
 
-- [Artigo em Word]([a incluir](https://github.com/anaribeiro54/Desafio_CAIXA_Criando_Impacto_Social_Com_IA/blob/main/Artigo_versaoFINAL.docx))
-- [Apresentação em PDF]([a incluir](https://github.com/anaribeiro54/Desafio_CAIXA_Criando_Impacto_Social_Com_IA/blob/main/Desafio%20CAIXA.pdf))
+- [Artigo em Word](https://github.com/anaribeiro54/Desafio_CAIXA_Criando_Impacto_Social_Com_IA/blob/main/Artigo_versaoFINAL.docx)
+- [Apresentação em PDF](https://github.com/anaribeiro54/Desafio_CAIXA_Criando_Impacto_Social_Com_IA/blob/main/Desafio%20CAIXA.pdf)
 - [Capa gerada no Leonardo AI]([[https://github.com/anaribeiro54/prompts-for-podcast-generate-by-ia/blob/main/assets/A%20hand-drawn%20sketch%20in%20classic%20black%20and%20white%2C%20depicting%20a%20woman%20surrounded%20by%20ascending%20graphs%20and%20a%20path.%20The%20style%20is%20timeless%20and%20elegant%2C%20featuring%20rough%20lines%2C%20textured%20pencil%20strokes%2C%20and%20deep%20shadows%20again.jpg](https://github.com/anaribeiro54/Desafio_CAIXA_Criando_Impacto_Social_Com_IA/blob/main/A%20hand-drawn%20sketch%20in%20classic%20black%20and%20white%2C%20depicting%20a%20woman%20surrounded%20by%20ascending%20graphs%20and%20a%20path.%20The%20style%20is%20timeless%20and%20elegant%2C%20featuring%20rough%20lines%2C%20textured%20pencil%20strokes%2C%20and%20deep%20shadows%20again.jpg)](https://github.com/anaribeiro54/Desafio_CAIXA_Criando_Impacto_Social_Com_IA/blob/main/A%20hand-drawn%20sketch%20in%20classic%20black%20and%20white%2C%20depicting%20a%20woman%20surrounded%20by%20ascending%20graphs%20and%20a%20path.%20The%20style%20is%20timeless%20and%20elegant%2C%20featuring%20rough%20lines%2C%20textured%20pencil%20strokes%2C%20and%20deep%20shadows%20again.jpg))
 - [Folder](https://github.com/anaribeiro54/Desafio_CAIXA_Criando_Impacto_Social_Com_IA/blob/main/Folder_final.png)
 
@@ -133,14 +133,17 @@ ________________________________________
 ## Módulo 3: Hub de Conexão para Stakeholders
 
 - Objetivo: Conectar construtoras, fornecedores de materiais sustentáveis, investidores e clientes em um único ambiente colaborativo.
+- 
 - Funcionalidades:
 •	Cadastro de stakeholders: Ambiente para construtoras e fornecedores de materiais certificados se inscreverem e divulgarem seus serviços.
 •	Marketplace de projetos: Espaço para investidores identificarem e apoiarem projetos sustentáveis.
 •	Relatórios de impacto: Exibição de resultados ambientais e sociais dos projetos em andamento.
+
 - Tecnologias Utilizadas:
 •	Blockchain para rastreamento de materiais e transparência.
 •	Algoritmos de IA para matchmaking entre stakeholders.
 •	API aberta para integração com ERPs das construtoras.
+
 - Impacto:
 •	Facilita a formação de parcerias e promove a adoção de práticas sustentáveis.
 •	Aumenta a transparência e a confiança entre os participantes.
@@ -149,13 +152,16 @@ ________________________________________
 ## Módulo 4: Monitoramento e Relatórios de Impacto
 
 - Objetivo: Acompanhar o desempenho ambiental e social dos projetos financiados e fornecer relatórios claros para todos os stakeholders.
+  
 - Funcionalidades:
 •	Indicadores de sustentabilidade: Monitoramento de emissões de CO₂, eficiência hídrica e energética dos projetos.
 •	Painéis em tempo real: Informam progresso dos projetos e resultados alcançados.
 •	Relatórios ESG: Geração automática de relatórios para investidores, evidenciando impacto social e ambiental.
+
 Tecnologias Utilizadas:
 •	Sensores IoT para monitorar construções em tempo real.
 •	Inteligência artificial para correlacionar dados de impacto.
+
 Impacto:
 •	Transparência nos resultados dos projetos financiados.
 •	Melhor compreensão do impacto para clientes e investidores.
@@ -165,13 +171,16 @@ ________________________________________
 ## Módulo 5: Educação e Engajamento
 
 - Objetivo: Capacitar clientes, construtoras e colaboradores para aumentar a adoção de práticas sustentáveis.
+  
 - Funcionalidades:
 •	Trilhas de aprendizado personalizadas: Cursos e materiais adaptados ao perfil do usuário.
 •	Gamificação: Recompensas para stakeholders que completam módulos de formação.
 •	Certificações: Certificados para construtoras que adotam padrões verdes.
+
 - Tecnologias Utilizadas:
 •	Plataformas de e-learning integradas com IA.
 •	Elementos de gamificação para aumentar engajamento.
+
 - Impacto:
 •	Formação de uma comunidade mais consciente e habilitada.
 •	Estímulo ao uso de soluções sustentáveis por todos os stakeholders.
@@ -185,6 +194,7 @@ A Plataforma Integrada para Habitação Verde e Sustentável apresenta um potenc
 •	Econômico: Custos menores para construtores e clientes, além de novos modelos de negócios sustentáveis. 
 •	Cultural: Promoção de uma cultura de sustentabilidade e colaboração entre stakeholders.
 •	Corporativos: a CAIXA reafirma seu compromisso com um futuro mais verde e sustentável.
+
 Além disso, a proposta está alinhada aos Objetivos de Desenvolvimento Sustentável (ODS), incluindo:
 •	ODS 7: Energia Limpa e Acessível 
 •	ODS 9: Inovação e Infraestrutura
